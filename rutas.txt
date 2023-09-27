@@ -1,0 +1,8 @@
+Ruta absoluta --> respecto del disco
+
+C:\Users\smata\OneDrive\Documentos\NetBeansProjects\Clase19TT\src\streams\lector\archivo.txt
+
+
+Ruta relativa --> respecto de la carpeta raiz del proyecto
+
+src\streams\lector\archivo.txt

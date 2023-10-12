@@ -1,0 +1,8 @@
+Mapeo
+
+La tabla alumnos se mapea como la clase Alumno
+
+El campo nombre se mapea como el atributo nombre
+El campo edad se mapea como el atributo edad
+
+un registro de la tabla se mapea como un objeto de la clase
